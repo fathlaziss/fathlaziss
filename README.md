@@ -1,14 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Muhamad Fathul Azis
 
 
-Here are some ideas to get you started:
+### Talking about me :
 
-- 🔭 I’m currently working as Freelance Android Apps Developer
+- 🔭 I’m a fresh graduate with background Mobile Developer
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: azisfathl@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Fresh Graduate 
-
+- ⚡ Flutter Enthusiast 
+- 📫 Hire me at azisfathl@gmail.com
